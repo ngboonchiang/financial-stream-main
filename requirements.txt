@@ -1,0 +1,6 @@
+streamlit
+pandas
+ta-lib
+beautifulsoup4
+yahooquery
+investpy
