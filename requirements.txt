@@ -3,3 +3,4 @@ pandas
 beautifulsoup4
 yahooquery
 investpy
+ta-lib-python
